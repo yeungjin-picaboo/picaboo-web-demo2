@@ -1,3 +1,5 @@
+import MainLayout from '../components/layout/index/index';
+
 export default function Home() {
-  return <main></main>;
+  return <MainLayout />;
 }
