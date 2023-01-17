@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import styled from 'styled-components';
 import Paragraph from '../../common/Paragraph';
 import Image from 'next/image';

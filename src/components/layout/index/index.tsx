@@ -1,4 +1,3 @@
-import React from 'react';
 import Main from './Main';
 
 export default function MainLayout() {
@@ -9,7 +8,7 @@ export default function MainLayout() {
         <Main.Logo>PICASSO</Main.Logo>
         <Main.Nav>
           <Main.NavItem href='/showcase'>SHOWCASE</Main.NavItem>
-          <Main.NavItem href='/community'>COMMUNITY</Main.NavItem>
+          <Main.NavItem href='/forum'>Forum</Main.NavItem>
           <Main.NavItem href='/qna'>QNA</Main.NavItem>
           <Main.NavItem href='/login'>LOGIN</Main.NavItem>
           <Main.NavItem href='/register'>REGISTER</Main.NavItem>

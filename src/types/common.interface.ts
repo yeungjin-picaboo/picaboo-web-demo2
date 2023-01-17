@@ -12,3 +12,7 @@ export interface IProps {
 export interface LinkProps extends IProps {
   href: string;
 }
+
+export interface PageLayoutProps extends IProps {
+  title: string;
+}
